@@ -8,6 +8,8 @@ Languages and Tools:
 
 - Html
 - Css
+- Sass
+- Bootstrap
 - JavaScript
 - React
 - Node.js
