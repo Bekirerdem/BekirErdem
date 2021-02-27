@@ -1,8 +1,8 @@
 # Hi there I'm Bekir
 
-✨ I am currently a Frontend developer.
+### ✨ I am currently a Frontend developer.
 
-✨ I have been developing myself in React & Nodejs fields.
+### ✨ I have been developing myself in React & Nodejs fields.
 
 Languages and Tools:
 
