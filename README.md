@@ -2,7 +2,7 @@
 
 ### ✨ I am currently a Frontend developer.
 
-### ✨ I have been developing myself in React & Node.js fields.
+### ✨ I have been developing myself in React & Next.js fields.
 
 Languages and Tools:
 
