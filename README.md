@@ -6,12 +6,14 @@
 
 Languages and Tools:
 
-- Html
-- Css
-- Sass
+- HTML
+- CSS
+- SASS
+- Tailwind.css
 - Bootstrap
 - JavaScript
 - React
+- Next.js
 - Node.js
 
 Linkedin : https://www.linkedin.com/in/bekir-erdem-016231173/
