@@ -18,5 +18,3 @@ Languages and Tools:
 Linkedin : https://www.linkedin.com/in/bekir-erdem-016231173/
 
 Twitter : https://twitter.com/l3ekirerdem
-
-Instagram : https://www.instagram.com/l3ekirerdem/
