@@ -14,7 +14,6 @@ Languages and Tools:
 - JavaScript
 - React
 - Next.js
-- Node.js
 
 Linkedin : https://www.linkedin.com/in/bekir-erdem-016231173/
 
