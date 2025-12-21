@@ -1,36 +1,38 @@
-<div align="center">
+<div align="center" style="max-width: 100%; overflow-x: hidden;">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Identity:+The_AI_Architect;Mode:+Vibe_Coding_%26_Design;Mission:+Shipping_at_Light_Speed" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=400&lines=The_AI_Architect;Mode:+Vibe_Coding;Shipping_at_Light_Speed" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284113-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(180deg);">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
 
   <br/>
 
   <div align="left">
-    <pre style="font-family: 'Fira Code', monospace; background-color: transparent; border: none; font-size: 14px; line-height: 1.5; color: #e6edf3;">
-<span style="color: #ff0055;">const</span> <span style="color: #00F0FF;">philosophy</span> = {
-  <span style="color: #00F0FF;">role</span>: <span style="color: #e2b714;">"Orchestrating AI, not just typing syntax"</span>,
-  <span style="color: #00F0FF;">tools</span>: [<span style="color: #e2b714;">"Lovable"</span>, <span style="color: #e2b714;">"Replit"</span>, <span style="color: #e2b714;">"Cursor"</span>, <span style="color: #e2b714;">"AI Studio"</span>],
-  <span style="color: #00F0FF;">output</span>: <span style="color: #e2b714;">"High-fidelity apps deployed in hours"</span>
+    <pre style="font-family: 'Fira Code', monospace; background-color: transparent; border: none; font-size: 14px; line-height: 1.5; color: #8b949e; white-space: pre-wrap;">
+/*
+const philosophy = {
+  role: "Orchestrating AI, not just typing syntax",
+  tools: ["Lovable", "Replit", "Cursor", "AI Studio"],
+  output: "High-fidelity apps deployed in hours"
 };
 
-<span style="color: #8b949e;">// Legacy coding is slow. I build at the speed of thought.</span>
-<span style="color: #ff0055;">while</span> (imagination) {
-  ship(<span style="color: #e2b714;">"Next_Big_Thing"</span>);
+// Legacy coding is slow. I build at the speed of thought.
+while (imagination) {
+  ship("Next_Big_Thing");
 }
+*/
     </pre>
   </div>
 
   <br/>
 
-  <h3 style="color: #00F0FF;">⚡ The Vibe Studio Stack</h3>
+  <h3 style="color: #FF0055;">⚡ The Vibe Studio Stack</h3>
   
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,figma&theme=dark" />
   <br/><br/>
   
-  <img src="https://img.shields.io/badge/Builder-Lovable.dev-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/Builder-Lovable.dev-FF0055?style=for-the-badge&logo=vercel&logoColor=black" />
   <img src="https://img.shields.io/badge/IDE-Replit_Core-F26207?style=for-the-badge&logo=replit&logoColor=white" />
   <img src="https://img.shields.io/badge/Design-Unicorn_Studio-8A2BE2?style=for-the-badge&logo=dribbble&logoColor=white" />
   <img src="https://img.shields.io/badge/Agent-Stitch-000000?style=for-the-badge&logo=codepen&logoColor=white" />
@@ -39,19 +41,19 @@
 
   <br/><br/>
 
-  <p style="font-family: monospace; letter-spacing: 2px; color: #8be9fd;">POWERED BY</p>
+  <p style="font-family: monospace; letter-spacing: 2px; color: #ff7b72;">POWERED BY</p>
   <img src="https://img.shields.io/badge/CURSOR-AI_Editor-000000?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/ANTIGRAVITY-Backend-4B0082?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOVABLE-Gen_UI-00F0FF?style=flat-square&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/LOVABLE-Gen_UI-FF0055?style=flat-square&logo=vercel&logoColor=black" />
   <img src="https://img.shields.io/badge/AI_STUDIO-Models-4285F4?style=flat-square&logo=google&logoColor=white" />
 
   <br/><br/>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284113-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(180deg);">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
 
   <br/>
 
-  <h2 style="color: #00F0FF;">🧪 The Shipping Log</h2>
+  <h2 style="color: #FF0055;">🧪 The Shipping Log</h2>
   
   <table width="100%">
     <thead>
@@ -97,23 +99,6 @@
 
   <br/>
 
-  <h3 style="color: #00F0FF;">📈 Vibe Coding Frequency</h3>
+  <h3 style="color: #FF0055;">📈 Vibe Coding Frequency</h3>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bekirerdem&bg_color=0D1117&color=00F0FF&line=00F0FF&point=ffffff&hide_border=true&area=true" width="100%" />
-
-  <br/><br/>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284113-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="filter: hue-rotate(180deg);">
-  
-  <h3>🌍 Connect</h3>
-  
-  <p>
-    <a href="https://twitter.com/l3ekirerdem">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/bekir-erdem-016231173/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-  </p>
-
-</div>
+  <img src="
