@@ -1,44 +1,60 @@
-<div align="center">
+<div align="center" style="max-width: 100%; overflow-x: hidden;">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=28&pause=1000&color=79C0FF&background=00000000&center=true&vCenter=true&width=600&lines=The_AI_Architect;Mode:+Build_Games_2026;Shipping_Avalanche_L1s;Full_Stack_%2B_Web3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=The_AI_Architect;Mode:+Vibe_Coding_%26_Design;Shipping_at_Light_Speed" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 
-</div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
 
-<br/>
-
-<div align="center">
-  <img src="https://svg-terminal.vercel.app/api/terminal?bg=0d1117&color=c9d1d9&font=JetBrains+Mono&content=%23!%2Fbin%2Fbash%0A%0A%3E+whoami%0A%7B%0A++role%3A+%22Orchestrating+AI+%26+Design%22%2C%0A++focus%3A+%5B%22Avalanche+Build+Games%22%2C+%22Teleporter%2FICM%22%5D%2C%0A++stack%3A+%5B%22Opus+4.6%22%2C+%22Next.js%22%2C+%22Foundry%22%5D%2C%0A++status%3A+%22Shipping+at+Light+Speed+%F0%9F%9A%80%22%0A%7D%0A%0A%3E+deploy+ChainBounty%0A%5B%E2%9C%94%5D+Compiling+contracts...+Done.%0A%5B%E2%9C%94%5D+Running+Opus+AI+security+audit...+Clean.%0A%5B%E2%9C%94%5D+Deploying+to+Avalanche+C-Chain...+Success!%0A%3E+_" width="800" style="border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-</div>
-
-<br/><br/>
-
-<div align="center">
-
-  <h3 style="color: #FF0055;">🎯 Current Focus: Avalanche L1 Architecture</h3>
-  <p>Building the next generation of trustless consumer apps using <b>Interchain Messaging (ICM)</b>.</p>
-  <img src="https://img.shields.io/badge/Hackathon-Avalanche_Build_Games_2026-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-  
-  <br/><br/>
-
-  <h3 style="color: #FF0055;">⚡ The Vibe Studio Arsenal</h3>
-  
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase&theme=dark" />
   <br/>
-  
-  <img src="https://skillicons.dev/icons?i=solidity,hardhat,foundry,avalanche&theme=dark" />
+
+  <div align="left">
+    <pre style="font-family: 'Fira Code', monospace; background-color: transparent; border: none; font-size: 14px; line-height: 1.5; color: #8b949e; white-space: pre-wrap;">
+/*
+const philosophy = {
+  role: "Orchestrating AI & Design, not just typing syntax",
+  tools: ["Lovable", "Replit", "Cursor", "AI Studio"],
+  output: "High-fidelity products deployed in hours"
+};
+
+// Legacy coding is slow. I build at the speed of thought.
+while (imagination && adrenaline) {
+  ship("Next_Big_Thing");
+}
+*/
+    </pre>
+  </div>
+
+  <br/>
+
+  <h3 style="color: #FF0055;">⚡ The Vibe Studio Stack</h3>
+   
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,replit&theme=dark" />
+  <br/><br/>
+   
+  <img src="https://img.shields.io/badge/Builder-Lovable.dev-FF0055?style=for-the-badge&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/IDE-Replit_Core-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Unicorn_Studio-8A2BE2?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agent-Stitch-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logic-Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual-Aura-ffffff?style=for-the-badge&logo=framer&logoColor=black" />
+
   <br/><br/>
 
-  <img src="https://img.shields.io/badge/AI_Partner-Opus_4.6-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Editor-Cursor_%2F_Antigravity-000000?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gen_UI-Lovable.dev-FF0055?style=flat-square&logo=vercel&logoColor=black" />
-  <img src="https://img.shields.io/badge/Design-Unicorn_Studio-8A2BE2?style=flat-square&logo=dribbble&logoColor=white" />
+  <p style="font-family: monospace; letter-spacing: 2px; color: #ff7b72;">POWERED BY</p>
+  <img src="https://img.shields.io/badge/CURSOR-AI_Editor-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANTIGRAVITY-Backend-4B0082?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/LOVABLE-Gen_UI-FF0055?style=flat-square&logo=vercel&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI_STUDIO-Models-4285F4?style=flat-square&logo=google&logoColor=white" />
 
   <br/><br/>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
+
+  <br/>
 
   <h2 style="color: #FF0055;">🚀 The Shipping Log</h2>
-  
+   
   <table width="100%">
     <thead>
       <tr>
@@ -48,13 +64,6 @@
       </tr>
     </thead>
     <tbody>
-      <tr style="background-color: #161b22;">
-        <td align="center">
-          <b>🔴 ChainBounty</b><br>
-          <a href="#">🔗 View Repo</a> </td>
-        <td>Avalanche Build Games Girişimi.<br/>Trustless Freelance Layer w/ Teleporter.<br/> <b>Solidity, Foundry, Next.js, ICM</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🔥_Hackathon-Building-FF4500" /></td>
-      </tr>
       <tr>
         <td align="center">
           <b>Sentient Agency</b><br>
@@ -90,18 +99,4 @@
       <tr>
         <td align="center">
           <b>Pall-Net</b><br>
-          <a href="https://pall-net.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Gerçek zamanlı web mimarisi ve AI entegrasyonu. <br/> <b>Next.js 15, AI</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-    </tbody>
-  </table>
-
-  <br/>
-  
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
-  </p>
-
-</div>
+          <a href="
