@@ -1,4 +1,4 @@
-pekala github profilimi ss lerde inceleyebilirsin burda ki ilk giriş kısmı renksiz bir terminal alanımız var orayı renkli bir terminale çevirelibiriz altında ki projeler kısmı aşağıda ki belirlediğim sıraya göre yeniden düzenlense daha güzel olur. <div align="center" style="max-width: 100%; overflow-x: hidden;">
+ <div align="center" style="max-width: 100%; overflow-x: hidden;">
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=500&lines=The_AI_Architect;Mode:+Vibe_Coding_%26_Design;Shipping_at_Light_Speed" alt="Typing SVG" style="max-width: 100%;" />
@@ -114,5 +114,3 @@ while (imagination && adrenaline) {
   </p>
 
 </div>
-
-bu kod readme.md dosyam gerekli düzenlemeleri yapmanı istiyorum github profilimi düzenleyip güncellemek istiyorum hadi birlikte bir şeyler düşünelim
