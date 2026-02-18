@@ -13,32 +13,41 @@
 <span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">mission</span> = {
   <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Orchestrating AI & Blockchain"</span>,
   <span style="color: #79c0ff;">current_focus</span>: <span style="color: #a5d6ff;">["Avalanche Build Games 2026", "Teleporter/ICM"]</span>,
-  <span style="color: #79c0ff;">stack</span>: [<span style="color: #a5d6ff;">"Next.js 15"</span>, <span style="color: #a5d6ff;">"Solidity"</span>, <span style="color: #a5d6ff;">"Opus 4.6"</span>, <span style="color: #a5d6ff;">"Foundry"</span>],
+  <span style="color: #79c0ff;">stack</span>: [<span style="color: #a5d6ff;">"Next.js 15"</span>, <span style="color: #a5d6ff;">"Solidity"</span>, <span style="color: #a5d6ff;">"Opus 4.6"</span>, <span style="color: #a5d6ff;">"Foundry"</span>, <span style="color: #a5d6ff;">"Antigravity"</span>],
   <span style="color: #79c0ff;">output</span>: <span style="color: #a5d6ff;">"Trustless products deployed at light speed"</span>
 };
 
 <span style="color: #8b949e;">// Legacy coding is slow. I build with AI agents.</span>
 <span style="color: #ff7b72;">while</span> (<span style="color: #79c0ff;">imagination</span> && <span style="color: #79c0ff;">adrenaline</span>) {
-  <span style="color: #d2a8ff;">ship</span>(<span style="color: #a5d6ff;">"ChainBounty"</span>);
+<span style="color: #d2a8ff;">ship</span>(<span style="color: #a5d6ff;">"ChainBounty"</span>);
 }
-    </pre>
+</pre>
+
   </div>
 
   <br/>
 
   <h3 style="color: #FF0055;">⚡ The Vibe Studio Stack & Web3 Arsenal</h3>
   
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,solidity,hardhat,foundry,avalanche&theme=dark" />
+  <!-- Updated stack: first 5 remain, adding AVAX, Solidity, Google, Vue, Replit -->
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,avalanche,solidity,google,vue,replit&theme=dark" />
   <br/><br/>
   
   <img src="https://img.shields.io/badge/Blockchain-Avalanche_Subnet-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
   <img src="https://img.shields.io/badge/AI_Partner-Opus_4.6-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model-Gemini_1.5_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Builder-Lovable.dev-FF0055?style=for-the-badge&logo=vercel&logoColor=black" />
   <img src="https://img.shields.io/badge/Design-Unicorn_Studio-8A2BE2?style=for-the-badge&logo=dribbble&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design-Spline_3D-000000?style=for-the-badge&logo=spline&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Logic-Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
   <img src="https://img.shields.io/badge/Editor-Cursor-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Full_Google_Ecosystem-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-  <br/><br/>
+<br/><br/>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
 
@@ -58,7 +67,7 @@
       <tr>
         <td align="center">
           <b>🔴 ChainBounty</b><br>
-          <a href="#">🔗 View Repo</a>
+          <a href="https://github.com/Bekirerdem/ChainBounty">🔗 View Repo</a>
         </td>
         <td>Avalanche Build Games Girişimi. <br/>Trustless Freelance Layer w/ Teleporter. <br/> <b>Solidity, Foundry, Next.js, ICM</b></td>
         <td align="center"><img src="https://img.shields.io/badge/🔥_Hackathon-Building-FF4500" /></td>
