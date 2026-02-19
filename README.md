@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=The_AI_Architect;Mode:+Build_Games_2026;Shipping_Avalanche_L1s;Full_Stack_%2B_Web3" alt="Typing SVG" style="max-width: 100%;" />
   </a>
 
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,nodejs,vue,python,solidity,docker,vercel,figma&theme=dark" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
 
   <br/>
 
@@ -28,7 +28,7 @@
 
   <h3 style="color: #FF0055;">⚙️ Core Architecture & Web3 Infrastructure</h3>
   
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,vue,solidity,nodejs,python,docker,vercel,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,nodejs,vue,python,solidity,docker,vercel,figma&theme=dark" />
   
   <br/><br/>
   
