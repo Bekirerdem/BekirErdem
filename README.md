@@ -28,7 +28,7 @@
 
   <h3 style="color: #FF0055;">⚡ The Vibe Studio Stack & Web3 Arsenal</h3>
   
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,vue,solidity,avalanche,google&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,vue,solidity,nodejs,python,docker,vercel,figma&theme=dark" />
   
   <br/><br/>
   
