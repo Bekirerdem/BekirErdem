@@ -26,29 +26,65 @@ while (imagination && adrenaline) {
 
 <br/>
 
-### ⚙️ Stack
+## ⚙️ Stack
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,astro,supabase,nodejs,python,solidity,docker,vercel,figma&theme=dark" />
+**Frontend & Motion**
+
+<img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
+
+<br/>
+
+**Backend & Infra**
+
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+
+<br/>
+
+**Web3**
+
+<img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Foundry-F38B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ICM_·_Teleporter-E84142?style=for-the-badge" />
+
+<br/>
+
+**AI & Tooling**
+
+<img src="https://img.shields.io/badge/Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br/><br/>
 
-<!-- AI & Agents -->
-<img src="https://img.shields.io/badge/Agent-Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Model-Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/IDE-Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
 <br/>
 
-<!-- Web3 -->
-<img src="https://img.shields.io/badge/Chain-Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-<img src="https://img.shields.io/badge/Contracts-Solidity_%2B_Foundry-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+## 📊 Live Activity
 
-<br/>
+<a href="https://github.com/Bekirerdem">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Bekirerdem&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=FF0055&icon_color=8A2BE2&text_color=c9d1d9&hide_border=true" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekirerdem&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=FF0055&text_color=c9d1d9&hide_border=true" />
+</a>
 
-<!-- Tooling -->
-<img src="https://img.shields.io/badge/Automation-n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/Motion-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
-<img src="https://img.shields.io/badge/3D-Spline-000000?style=for-the-badge&logo=spline&logoColor=white" />
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekirerdem&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" />
 
 <br/><br/>
 
