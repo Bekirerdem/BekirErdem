@@ -1,126 +1,113 @@
-<div align="center" style="max-width: 100%; overflow-x: hidden;">
+<div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=The_AI_Architect;Mode:+Build_Games_2026;Shipping_Avalanche_L1s;Full_Stack_%2B_Web3" alt="Typing SVG" style="max-width: 100%;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=The_AI_Architect;Full_Stack_%2B_AI_Integration;Building_on_Avalanche;Open_for_Freelance_%24_30%2Fhr" alt="Typing SVG" />
   </a>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-  <br/>
+</div>
 
-  <div align="left" style="background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
-    <pre style="font-family: 'Fira Code', monospace; background-color: transparent; border: none; font-size: 14px; line-height: 1.5; color: #c9d1d9; white-space: pre-wrap; margin: 0;">
-<span style="color: #ff7b72;">const</span> <span style="color: #d2a8ff;">mission</span> = {
-  <span style="color: #79c0ff;">role</span>: <span style="color: #a5d6ff;">"Orchestrating AI & Blockchain"</span>,
-  <span style="color: #79c0ff;">current_focus</span>: <span style="color: #a5d6ff;">["Avalanche Build Games 2026", "Teleporter/ICM"]</span>,
-  <span style="color: #79c0ff;">stack</span>: [<span style="color: #a5d6ff;">"Next.js 15"</span>, <span style="color: #a5d6ff;">"Solidity"</span>, <span style="color: #a5d6ff;">"Opus 4.6"</span>, <span style="color: #a5d6ff;">"Foundry"</span>, <span style="color: #a5d6ff;">"Antigravity"</span>],
-  <span style="color: #79c0ff;">output</span>: <span style="color: #a5d6ff;">"Trustless products deployed at light speed"</span>
+```ts
+const mission = {
+  role: "Orchestrating AI & Blockchain",
+  current_focus: ["Agentic Systems", "Avalanche + ICM", "Awwwards-grade UI"],
+  stack: ["Next.js 15", "Astro", "Solidity", "Opus 4.7", "Gemini 3.1 Pro", "Antigravity"],
+  output: "Trustless products deployed at light speed"
 };
 
-<span style="color: #8b949e;">// Legacy coding is slow. I build with AI agents.</span>
-<span style="color: #ff7b72;">while</span> (<span style="color: #79c0ff;">imagination</span> && <span style="color: #79c0ff;">adrenaline</span>) {
-  <span style="color: #d2a8ff;">ship</span>(<span style="color: #a5d6ff;">"ChainBounty"</span>);
+// Legacy coding is slow. I build with AI agents.
+while (imagination && adrenaline) {
+  ship(["ChainBounty", "bekirerdem.dev", "TradingAgent"]);
 }
-    </pre>
-  </div>
+```
 
-  <br/>
+<div align="center">
 
-  <h3 style="color: #FF0055;">⚙️ Core Architecture & Web3 Infrastructure</h3>
-  
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,supabase,postgres,nodejs,vue,python,solidity,docker,vercel,figma&theme=dark" />
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Blockchain-Avalanche_Subnet-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logic-Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agent-Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Model-Gemini_3.0_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ecosystem-Google_Dev-34A853?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-AI_Studio-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/Automation-n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Spline_3D-000000?style=for-the-badge&logo=spline&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Unicorn_Studio-8A2BE2?style=for-the-badge&logo=dribbble&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" />
+### ⚙️ Stack
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,astro,supabase,nodejs,python,solidity,docker,vercel,figma&theme=dark" />
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="display: block; margin: 20px 0;">
+<br/><br/>
 
-  <br/>
+<!-- AI & Agents -->
+<img src="https://img.shields.io/badge/Agent-Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Model-Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/IDE-Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
 
-  <h2 style="color: #FF0055;">🚀 The Shipping Log</h2>
-  
-  <table width="100%">
-    <thead>
-      <tr>
-        <th width="35%">Project</th>
-        <th width="45%">Mission & Tech</th>
-        <th width="20%">Status</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center">
-          <b>🔴 ChainBounty</b><br>
-          <a href="https://chain-bounty-frontend.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Avalanche Build Games Girişimi. <br/>Trustless Freelance Layer w/ Teleporter. <br/> <b>Solidity, Foundry, Next.js, ICM</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🔥_Hackathon-Building-FF4500" /></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <b>Pall-Net</b><br>
-          <a href="https://pall-net.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Gerçek zamanlı web mimarisi ve AI entegrasyonu. <br/> <b>Next.js 15, AI</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <b>Synapse Digital</b><br>
-          <a href="https://synapse-digital-experience.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Dijital deneyimi yeniden tanımlayan interaktif bir arayüz. <br/> <b>AI-Driven UI, React</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <b>Sentient Agency</b><br>
-          <a href="https://sentient-agency.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Yapay zeka odaklı, modern ve akışkan bir ajans deneyimi. <br/> <b>Next.js, Framer Motion</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <b>Anime.js Mastery</b><br>
-          <a href="https://anime-js-git-master-bekirerdem.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Karmaşık animasyonların kodla dansı. <br/> <b>Anime.js, Creative Coding</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-      <tr>
-        <td align="center">
-          <b>Just4 Fun</b><br>
-          <a href="https://just4-fun-bekirerdem.vercel.app/">🔗 View Project</a>
-        </td>
-        <td>Hızlı prototipleme ve deneysel UI çalışmaları. <br/> <b>Vibe Coding Experiment</b></td>
-        <td align="center"><img src="https://img.shields.io/badge/🟢_Live-Production-2ea44f" /></td>
-      </tr>
-    </tbody>
-  </table>
+<br/>
 
-  <br/>
+<!-- Web3 -->
+<img src="https://img.shields.io/badge/Chain-Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+<img src="https://img.shields.io/badge/Contracts-Solidity_%2B_Foundry-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 
-  <p align="center">
-    <i>👆 Bu liste sürekli güncellenir. Çünkü ben durmam, üretirim.</i>
-  </p>
+<br/>
+
+<!-- Tooling -->
+<img src="https://img.shields.io/badge/Automation-n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Motion-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+<img src="https://img.shields.io/badge/3D-Spline-000000?style=for-the-badge&logo=spline&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+
+<br/>
+
+## 🚀 The Shipping Log
+
+### Public Ships
+
+</div>
+
+| Project | Mission & Tech | Status |
+|---------|----------------|--------|
+| **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 girişimi. Trustless freelance layer w/ Teleporter.<br>**Solidity, Foundry, Next.js, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
+| **Pall-Net** — [🔗 Live](https://pall-net.vercel.app/) | Gerçek zamanlı web mimarisi ve AI entegrasyonu.<br>**Next.js 15, AI** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Synapse Digital** — [🔗 Live](https://synapse-digital-experience.vercel.app/) | Dijital deneyimi yeniden tanımlayan interaktif arayüz.<br>**AI-Driven UI, React** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Sentient Agency** — [🔗 Live](https://sentient-agency.vercel.app/) | Yapay zeka odaklı, akışkan ajans deneyimi.<br>**Next.js, Framer Motion** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Anime.js Mastery** — [🔗 Live](https://anime-js-git-master-bekirerdem.vercel.app/) | Karmaşık animasyonların kodla dansı.<br>**Anime.js, Creative Coding** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+
+<div align="center">
+
+### In Development — Private (Case studies on request)
+
+</div>
+
+| Project | Mission & Tech | Status |
+|---------|----------------|--------|
+| **bekirerdem.dev** — [🔗 Live](https://bekirerdem.dev) | Kişisel portfolio — Astro + GSAP + WebGL, Awwwards quality target.<br>**Astro, GSAP, Three.js** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **FunnyDog Farm** — [🔗 Live](https://funnydogizmir.com.tr) | Production client — AI chatbot "Pati", SEO infra, 39+ indexed pages.<br>**Next.js, Supabase, Gemini** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Trading Agent** | Autonomous news→signal→execution pipeline. Phase 1 complete.<br>**TypeScript, Claude Haiku, Binance WS, gramjs** | ![](https://img.shields.io/badge/🧪_R%26D-8e44ad?style=flat-square) |
+| **Agent Arena** — [🔗 Live](https://agent-mersin.vercel.app/) | Avalanche gamified community app. Contributing on design + build.<br>**Vite, TS, Hardhat, Supabase** | ![](https://img.shields.io/badge/🤝_Collaborating-17a2b8?style=flat-square) |
+
+<br/>
+
+<div align="center">
+
+---
+
+## 💼 Open for Work
+
+**Freelance** — AI Integration · Full-Stack · Web3 Dev → **$30/hr**
+
+<a href="https://www.upwork.com/freelancers/~bekirerdem">
+  <img src="https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
+</a>
+<a href="https://bekirerdem.dev">
+  <img src="https://img.shields.io/badge/Portfolio-bekirerdem.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://x.com/l3ekirerdem">
+  <img src="https://img.shields.io/badge/X-@l3ekirerdem-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/bekir-erdem">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<i>👆 Bu liste sürekli güncellenir. Çünkü ben durmam, üretirim.</i>
 
 </div>
