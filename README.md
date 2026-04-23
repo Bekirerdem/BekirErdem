@@ -18,7 +18,7 @@ const mission = {
 
 // Legacy coding is slow. I build with AI agents.
 while (imagination && adrenaline) {
-  ship(["ChainBounty", "bekirerdem.dev", "TradingAgent"]);
+  ship(["ChainBounty", "SHAVAXRE", "bekirerdem.dev", "TradingAgent"]);
 }
 ```
 
@@ -65,6 +65,7 @@ while (imagination && adrenaline) {
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
 | **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 girişimi. Trustless freelance layer w/ Teleporter.<br>**Solidity, Foundry, Next.js, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
+| **🔺 SHAVAXRE** — [🔗 Live](https://shavaxre.vercel.app/) | Decentralized education crowdfunding on Avalanche. %0 fee, swipe-to-fund UX, DAO milestone release (65/35).<br>**Solidity, Next.js, Avalanche Fuji** | ![](https://img.shields.io/badge/🏆_Top_30%25_—_Build_Games_2026-E84142?style=flat-square) |
 | **Pall-Net** — [🔗 Live](https://pall-net.vercel.app/) | Gerçek zamanlı web mimarisi ve AI entegrasyonu.<br>**Next.js 15, AI** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
 | **Synapse Digital** — [🔗 Live](https://synapse-digital-experience.vercel.app/) | Dijital deneyimi yeniden tanımlayan interaktif arayüz.<br>**AI-Driven UI, React** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
 | **Sentient Agency** — [🔗 Live](https://sentient-agency.vercel.app/) | Yapay zeka odaklı, akışkan ajans deneyimi.<br>**Next.js, Framer Motion** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
