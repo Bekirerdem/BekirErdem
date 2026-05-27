@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=The_AI_Architect;Full_Stack_%2B_AI_Integration;Building_on_Avalanche;Open_for_Freelance_%24_30%2Fhr" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=600&lines=The_AI_Architect;Full_Stack_%2B_AI_Integration;Building_on_Avalanche" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -100,12 +100,12 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 girişimi. Trustless freelance layer w/ Teleporter.<br>**Solidity, Foundry, Next.js, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
-| **🔺 SHAVAXRE** — [🔗 Live](https://shavaxre.vercel.app/) | Decentralized education crowdfunding on Avalanche. %0 fee, swipe-to-fund UX, DAO milestone release (65/35).<br>**Solidity, Next.js, Avalanche Fuji** | ![](https://img.shields.io/badge/🏆_Top_30%25_—_Build_Games_2026-E84142?style=flat-square) |
-| **Pall-Net** — [🔗 Live](https://pall-net.vercel.app/) | Gerçek zamanlı web mimarisi ve AI entegrasyonu.<br>**Next.js 15, AI** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Synapse Digital** — [🔗 Live](https://synapse-digital-experience.vercel.app/) | Dijital deneyimi yeniden tanımlayan interaktif arayüz.<br>**AI-Driven UI, React** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Sentient Agency** — [🔗 Live](https://sentient-agency.vercel.app/) | Yapay zeka odaklı, akışkan ajans deneyimi.<br>**Next.js, Framer Motion** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Anime.js Mastery** — [🔗 Live](https://anime-js-git-master-bekirerdem.vercel.app/) | Karmaşık animasyonların kodla dansı.<br>**Anime.js, Creative Coding** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 entry. Trustless freelance layer w/ Teleporter.<br>**Solidity, Foundry, Next.js, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
+| **🔺 SHAVAXRE** — [🔗 Live](https://shavaxre.vercel.app/) | Decentralized education crowdfunding on Avalanche. 0% fee, swipe-to-fund UX, DAO milestone release (65/35).<br>**Solidity, Next.js, Avalanche Fuji** | ![](https://img.shields.io/badge/🏆_Top_30%25_—_Build_Games_2026-E84142?style=flat-square) |
+| **Pall-Net** — [🔗 Live](https://pall-net.vercel.app/) | Real-time web architecture with AI integration.<br>**Next.js 15, AI** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Synapse Digital** — [🔗 Live](https://synapse-digital-experience.vercel.app/) | Interactive interface redefining the digital experience.<br>**AI-Driven UI, React** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Sentient Agency** — [🔗 Live](https://sentient-agency.vercel.app/) | AI-driven, fluid agency experience.<br>**Next.js, Framer Motion** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **Anime.js Mastery** — [🔗 Live](https://anime-js-git-master-bekirerdem.vercel.app/) | Complex animations choreographed in code.<br>**Anime.js, Creative Coding** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
 
 <div align="center">
 
@@ -115,7 +115,7 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **bekirerdem.dev** — [🔗 Live](https://bekirerdem.dev) | Kişisel portfolio — Astro + GSAP + WebGL, Awwwards quality target.<br>**Astro, GSAP, Three.js** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **bekirerdem.dev** — [🔗 Live](https://bekirerdem.dev) | Personal portfolio — Astro + GSAP + WebGL, Awwwards quality target.<br>**Astro, GSAP, Three.js** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
 | **FunnyDog Farm** — [🔗 Live](https://funnydogizmir.com.tr) | Production client — AI chatbot "Pati", SEO infra, 39+ indexed pages.<br>**Next.js, Supabase, Gemini** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
 | **Trading Agent** | Autonomous news→signal→execution pipeline. Phase 1 complete.<br>**TypeScript, Claude Haiku, Binance WS, gramjs** | ![](https://img.shields.io/badge/🧪_R%26D-8e44ad?style=flat-square) |
 | **Agent Arena** — [🔗 Live](https://agent-mersin.vercel.app/) | Avalanche gamified community app. Contributing on design + build.<br>**Vite, TS, Hardhat, Supabase** | ![](https://img.shields.io/badge/🤝_Collaborating-17a2b8?style=flat-square) |
@@ -128,7 +128,7 @@ while (imagination && adrenaline) {
 
 ## 💼 Open for Work
 
-**Freelance** — AI Integration · Full-Stack · Web3 Dev → **$30/hr**
+**Freelance** — AI Integration · Full-Stack · Web3 Dev
 
 <a href="https://www.upwork.com/freelancers/~bekirerdem">
   <img src="https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
@@ -145,6 +145,6 @@ while (imagination && adrenaline) {
 
 <br/><br/>
 
-<i>👆 Bu liste sürekli güncellenir. Çünkü ben durmam, üretirim.</i>
+<i>👆 This list updates constantly — because I don't stop, I ship.</i>
 
 </div>
