@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Web3_Builder_·_Avalanche_·_Solana_·_Base;Solidity_·_Foundry_·_ICM_·_x402;Shipping_in_public_·_4_chains_·_solo;Open_for_smart_contract_%2B_audit-grade_work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Avalanche_·_Solana_·_Base;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -10,16 +10,13 @@
 
 ```ts
 const profile = {
-  role: "Web3 builder · multi-chain",
-  focus: ["Avalanche L1 + ICM", "Solana x402 + CDP", "audit-grade Solidity"],
-  stack: ["Solidity", "Foundry", "Hardhat", "Next.js 15", "Wagmi v2", "TypeScript"],
-  shipping: "in public, solo, since day one"
+  name: "Bekir Erdem",
+  role: "Smart Contract Developer",
+  focus: ["Avalanche L1 + ICM", "Solana x402", "audit-grade Solidity"],
+  stack: ["Solidity", "Foundry", "Hardhat", "Next.js", "TypeScript"]
 };
 
-// 4 chains, 6+ projects shipped in 2026. Currently open for contract work.
-while (curious) {
-  ship(["Brain Drain", "ChainBounty", "Sha(vax)re", "Kozalak-L1"]);
-}
+// Building across Avalanche, Solana, Base. Open for contract work.
 ```
 
 <div align="center">
@@ -46,7 +43,6 @@ while (curious) {
 <img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
-<img src="https://img.shields.io/badge/Monad-200052?style=for-the-badge" />
 
 <br/>
 
@@ -75,7 +71,7 @@ while (curious) {
 **AI & Tooling**
 
 <img src="https://img.shields.io/badge/Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_3.5_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
@@ -153,7 +149,7 @@ while (curious) {
 
 **Open for Web3 contract work** — Smart contracts · Audit-grade Solidity · Full-stack dApps
 
-Currently shipping across Avalanche, Solana, Base and Monad. Comfortable from protocol design to production deployment.
+Currently shipping across Avalanche, Solana and Base. Comfortable from protocol design to production deployment.
 
 <br/>
 
