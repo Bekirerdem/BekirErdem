@@ -9,14 +9,17 @@
 </div>
 
 ```ts
-const profile = {
-  name: "Bekir Erdem",
-  role: "Smart Contract Developer",
-  focus: ["Avalanche L1 + ICM", "Solana x402", "audit-grade Solidity"],
-  stack: ["Solidity", "Foundry", "Hardhat", "Next.js", "TypeScript"]
+const mission = {
+  role: "Orchestrating AI & Blockchain",
+  current_focus: ["Agentic Systems", "Avalanche + ICM", "Awwwards-grade UI"],
+  stack: ["Next.js 15", "Astro", "Solidity", "Opus 4.7", "Gemini 3.5 Pro", "Antigravity"],
+  output: "Trustless products deployed at light speed"
 };
 
-// Building across Avalanche, Solana, Base. Open for contract work.
+// Legacy coding is slow. I build with AI agents.
+while (imagination && adrenaline) {
+  ship(["ChainBounty", "SHAVAXRE", "bekirerdem.dev", "TradingAgent"]);
+}
 ```
 
 <div align="center">
