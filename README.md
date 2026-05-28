@@ -87,12 +87,6 @@ while (imagination && adrenaline) {
 
 ## 📊 Live Activity
 
-<img src="https://img.shields.io/github/followers/Bekirerdem?style=for-the-badge&logo=github&color=FF0055&labelColor=0D1117&logoColor=white&label=Followers" />
-<img src="https://img.shields.io/github/stars/Bekirerdem?style=for-the-badge&logo=github&color=8A2BE2&labelColor=0D1117&logoColor=white&label=Total+Stars" />
-<img src="https://komarev.com/ghpvc/?username=Bekirerdem&color=FF0055&style=for-the-badge&label=Profile+Views" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekirerdem&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" />
 
 <br/><br/>
