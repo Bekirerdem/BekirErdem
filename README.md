@@ -77,7 +77,6 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Gemini_3.5_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
-<img src="https://img.shields.io/badge/n8n-FF652F?style=for-the-badge&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 <br/><br/>
