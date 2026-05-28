@@ -88,23 +88,9 @@ while (imagination && adrenaline) {
 
 ## 📊 Live Activity
 
-<a href="https://github.com/Bekirerdem">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekirerdem&theme=tokyo_night" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Bekirerdem">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bekirerdem&theme=tokyo_night" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Bekirerdem&theme=tokyo_night" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Bekirerdem">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bekirerdem&theme=tokyo_night&utcOffset=3" />
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bekirerdem&theme=tokyo_night" />
-</a>
+<img src="https://img.shields.io/github/followers/Bekirerdem?style=for-the-badge&logo=github&color=FF0055&labelColor=0D1117&logoColor=white&label=Followers" />
+<img src="https://img.shields.io/github/stars/Bekirerdem?style=for-the-badge&logo=github&color=8A2BE2&labelColor=0D1117&logoColor=white&label=Total+Stars" />
+<img src="https://komarev.com/ghpvc/?username=Bekirerdem&color=FF0055&style=for-the-badge&label=Profile+Views" />
 
 <br/><br/>
 
