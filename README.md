@@ -89,17 +89,26 @@ while (imagination && adrenaline) {
 ## 📊 Live Activity
 
 <a href="https://github.com/Bekirerdem">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=Bekirerdem&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&bg_color=0D1117&title_color=FF0055&icon_color=8A2BE2&text_color=c9d1d9&hide_border=true&cache_seconds=86400" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekirerdem&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=FF0055&text_color=c9d1d9&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bekirerdem&theme=tokyo_night" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Bekirerdem">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bekirerdem&theme=tokyo_night" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=Bekirerdem&theme=tokyo_night" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Bekirerdem">
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Bekirerdem&theme=tokyo_night&utcOffset=3" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bekirerdem&theme=tokyo_night" />
 </a>
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bekirerdem&theme=tokyonight&hide_border=true&background=0D1117&ring=FF0055&fire=FF0055&currStreakLabel=FF0055&sideLabels=c9d1d9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8b949e" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bekirerdem&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF0055&line=FF0055&point=8A2BE2&area=true&area_color=FF0055" width="100%" />
 
 <br/><br/>
 
