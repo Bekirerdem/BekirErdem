@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Avalanche_·_Solana_·_Base;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Rust_·_Soroban_·_Solidity_·_ZK;Stellar_·_Avalanche_·_Casper_·_Solana;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -10,15 +10,15 @@
 
 ```ts
 const mission = {
-  role: "Orchestrating AI & Blockchain",
-  current_focus: ["Agentic Systems", "Avalanche + ICM", "Awwwards-grade UI"],
-  stack: ["Next.js 15", "Astro", "Solidity", "Opus 4.7", "Gemini 3.5 Pro", "Antigravity"],
-  output: "Trustless products deployed at light speed"
+  role: "Smart contracts for the agent economy",
+  current_focus: ["Agentic payments (x402)", "Stellar · Soroban", "ZK compliance (Groth16)"],
+  stack: ["Rust", "Solidity", "Circom", "TypeScript", "Next.js 15", "Claude Code"],
+  output: "Contract-enforced trust deployed at light speed"
 };
 
-// Legacy coding is slow. I build with AI agents.
+// The contract is the safety — not the model's good behaviour.
 while (imagination && adrenaline) {
-  ship(["ChainBounty", "SHAVAXRE", "bekirerdem.dev", "TradingAgent"]);
+  ship(["PRISM", "Kozalak-L1", "casper-trust", "Brain Drain"]);
 }
 ```
 
@@ -30,9 +30,12 @@ while (imagination && adrenaline) {
 
 **Smart Contracts & Web3**
 
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Soroban-FDDA24?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Foundry-F38B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Circom_·_Groth16-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wagmi_v2-2C2C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/viem-1B1B1B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ICM_·_Teleporter-E84142?style=for-the-badge" />
@@ -43,9 +46,12 @@ while (imagination && adrenaline) {
 
 **Chains Shipped On**
 
+<img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+<img src="https://img.shields.io/badge/Casper-FF0011?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
+<img src="https://img.shields.io/badge/Monad-836EF9?style=for-the-badge" />
 
 <br/>
 
@@ -103,10 +109,14 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
+| **🔭 PRISM** — [🔗 Live](https://prism-stellar.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/prism) | **The wallet your AI agent can't drain.** Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Now a live per-user product: connect a wallet, deploy your own treasury.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_·_Stellar_Build_On_IBW_2026_·_Live_product-FDDA24?style=flat-square) |
+| **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Kozalak-L1) | Avalanche L1 launchpad: 5 audit-grade Subnet-EVM templates (ERC-20 gas · ERC-721 · ICTT · Soulbound · Timelock, all Fuji-verified) + the `create-kozalak-l1` scaffolding CLI on npm. 110 fuzz/invariant tests.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/🟢_npm_·_create--kozalak--l1-2ea44f?style=flat-square) |
+| **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating).<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/⚔️_Agentic_Buildathon_·_in_the_race-FF0011?style=flat-square) |
+| **🔧 C-Address Bridge** — [📦 Repo](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract) | Open-source contributor (Drips Stellar Wave): admin asset whitelist in the Soroban contract + retry/backoff in the TypeScript SDK (83 tests) — both merged upstream.<br>**Rust · Soroban, TypeScript** | ![](https://img.shields.io/badge/✅_2_PRs_merged_upstream-000000?style=flat-square) |
 | **🟣 Brain Drain** — [🔗 Live](https://brain-drain-iota.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/brain-drain) | Colosseum Frontier 2026 entry. x402 multi-protocol agent hub — AI agents discover, mount and pay vaults of expert knowledge. CDP smart wallets, MCP catalog, RAG.<br>**TypeScript, x402, Coinbase CDP, MCP, Solana, Next.js** | ![](https://img.shields.io/badge/🏁_Submitted_·_Frontier_2026_+_Halborn_track-9945FF?style=flat-square) |
+| **⚡ Söz** (Monad Blitz Ankara) | Collective-commitment vault designed for Monad's parallel EVM — per-user storage slots, naive-vs-parallel contention demo. Built in one day with Seyit Ali Değirmen.<br>**Solidity, Foundry, Monad testnet** | ![](https://img.shields.io/badge/🗳_Submitted_·_audience_vote-836EF9?style=flat-square) |
 | **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 entry. Trustless cross-chain freelance layer — AVAX escrow on C-Chain, cheap submissions on App-Chain, settlement via ICM/Teleporter.<br>**Solidity, Foundry, Next.js, Wagmi v2, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
 | **🔺 Sha(vax)re** — [🔗 Live](https://shavaxre.vercel.app/) | Decentralized education crowdfunding on Avalanche. 0% fee, swipe-to-fund UX, DAO milestone release (65/35).<br>**Solidity, Hardhat, Next.js, Avalanche Fuji** | ![](https://img.shields.io/badge/🏆_Top_30%25_—_Build_Games_2026-E84142?style=flat-square) |
-| **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Koza-L1) | Avalanche L1 launchpad toolkit. Foundry + Avalanche CLI templates, ERC-721 sprint, KGAS deployed and verified on Fuji.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/🟢_Live_·_Fuji_KGAS_verified-2ea44f?style=flat-square) |
 
 <div align="center">
 
@@ -142,9 +152,9 @@ while (imagination && adrenaline) {
 
 ## 💼 Open for Work
 
-**Open for Web3 contract work** — Smart contracts · Audit-grade Solidity · Full-stack dApps
+**Open for Web3 contract work** — Smart contracts · Audit-grade Rust/Soroban & Solidity · ZK circuits · Full-stack dApps
 
-Currently shipping across Avalanche, Solana and Base. Comfortable from protocol design to production deployment.
+Currently shipping across Stellar, Avalanche, Casper and Solana. Comfortable from protocol design to production deployment.
 
 <br/>
 
