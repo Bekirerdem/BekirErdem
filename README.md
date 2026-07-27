@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Rust_·_Soroban_·_Solidity_·_ZK;Stellar_·_Avalanche_·_Casper_·_Solana;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Rust_·_Soroban_·_Solidity_·_ZK;Stellar_·_Avalanche_·_Solana;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -11,14 +11,14 @@
 ```ts
 const mission = {
   role: "Smart contracts for the agent economy",
-  current_focus: ["Agentic payments (x402)", "Stellar · Soroban", "ZK compliance (Groth16)"],
-  stack: ["Rust", "Solidity", "Circom", "TypeScript", "Next.js 15", "Claude Code"],
+  current_focus: ["Agent trust (ERC-8004)", "Agentic payments (x402)", "ZK compliance (Groth16)"],
+  stack: ["Rust", "Soroban", "Solidity", "Circom", "TypeScript", "Claude Code"],
   output: "Contract-enforced trust deployed at light speed"
 };
 
 // The contract is the safety — not the model's good behaviour.
 while (imagination && adrenaline) {
-  ship(["PRISM", "Kozalak-L1", "casper-trust", "Brain Drain"]);
+  ship(["PRISM", "VERGLAS", "Kozalak-L1", "casper-trust"]);
 }
 ```
 
@@ -33,13 +33,15 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Soroban-FDDA24?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Odra_·_Casper-FF0011?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Foundry-F38B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Circom_·_Groth16-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ERC--8004-00B894?style=for-the-badge" />
+<img src="https://img.shields.io/badge/x402-2962FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ICM_·_Teleporter-E84142?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wagmi_v2-2C2C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/viem-1B1B1B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ICM_·_Teleporter-E84142?style=for-the-badge" />
-<img src="https://img.shields.io/badge/x402-2962FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Coinbase_CDP-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
 
 <br/>
@@ -48,10 +50,9 @@ while (imagination && adrenaline) {
 
 <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
-<img src="https://img.shields.io/badge/Casper-FF0011?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
+<img src="https://img.shields.io/badge/Casper-FF0011?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
-<img src="https://img.shields.io/badge/Monad-836EF9?style=for-the-badge" />
 
 <br/>
 
@@ -68,19 +69,20 @@ while (imagination && adrenaline) {
 **Backend & Infra**
 
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br/>
 
 **AI & Tooling**
 
-<img src="https://img.shields.io/badge/Claude_Opus_4.7-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_3.5_Pro-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Opus_5-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_3.6_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge&logo=webassembly&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -109,40 +111,23 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **🔭 PRISM** — [🔗 Live](https://prism-stellar.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/prism) | **The wallet your AI agent can't drain.** Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Now a live per-user product: connect a wallet, deploy your own treasury.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_·_Stellar_Build_On_IBW_2026_·_Live_product-FDDA24?style=flat-square) |
-| **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Kozalak-L1) | Avalanche L1 launchpad: 5 audit-grade Subnet-EVM templates (ERC-20 gas · ERC-721 · ICTT · Soulbound · Timelock, all Fuji-verified) + the `create-kozalak-l1` scaffolding CLI on npm. 110 fuzz/invariant tests.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/🟢_npm_·_create--kozalak--l1-2ea44f?style=flat-square) |
-| **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating).<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/⚔️_Agentic_Buildathon_·_in_the_race-FF0011?style=flat-square) |
-| **🔧 C-Address Bridge** — [📦 Repo](https://github.com/C-Address-Onboarding-Bridge/C-Address-Onboarding-Bridge--Contract) | Open-source contributor (Drips Stellar Wave): admin asset whitelist in the Soroban contract + retry/backoff in the TypeScript SDK (83 tests) — both merged upstream.<br>**Rust · Soroban, TypeScript** | ![](https://img.shields.io/badge/✅_2_PRs_merged_upstream-000000?style=flat-square) |
-| **🟣 Brain Drain** — [🔗 Live](https://brain-drain-iota.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/brain-drain) | Colosseum Frontier 2026 entry. x402 multi-protocol agent hub — AI agents discover, mount and pay vaults of expert knowledge. CDP smart wallets, MCP catalog, RAG.<br>**TypeScript, x402, Coinbase CDP, MCP, Solana, Next.js** | ![](https://img.shields.io/badge/🏁_Submitted_·_Frontier_2026_+_Halborn_track-9945FF?style=flat-square) |
-| **⚡ Söz** (Monad Blitz Ankara) | Collective-commitment vault designed for Monad's parallel EVM — per-user storage slots, naive-vs-parallel contention demo. Built in one day with Seyit Ali Değirmen.<br>**Solidity, Foundry, Monad testnet** | ![](https://img.shields.io/badge/🗳_Submitted_·_audience_vote-836EF9?style=flat-square) |
-| **🔴 ChainBounty** — [🔗 Live](https://chain-bounty-frontend.vercel.app/) | Avalanche Build Games 2026 entry. Trustless cross-chain freelance layer — AVAX escrow on C-Chain, cheap submissions on App-Chain, settlement via ICM/Teleporter.<br>**Solidity, Foundry, Next.js, Wagmi v2, ICM** | ![](https://img.shields.io/badge/🟡_Hackathon_→_Evolving-FFA500?style=flat-square) |
-| **🔺 Sha(vax)re** — [🔗 Live](https://shavaxre.vercel.app/) | Decentralized education crowdfunding on Avalanche. 0% fee, swipe-to-fund UX, DAO milestone release (65/35).<br>**Solidity, Hardhat, Next.js, Avalanche Fuji** | ![](https://img.shields.io/badge/🏆_Top_30%25_—_Build_Games_2026-E84142?style=flat-square) |
+| **🔭 PRISM** — [🔗 Live](https://prism-stellar.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/prism) | **The wallet your AI agent can't drain.** Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Now a live per-user product: connect a wallet, deploy your own treasury.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_Place-FDDA24?style=for-the-badge) |
+| **❄️ VERGLAS** — [🔗 Live](https://verglas.xyz) | **Agent trust that travels.** Canonical ERC-8004 registry on Avalanche — agent identity + reputation that survives the trip between L1s over ICM, with USDC settlement and a Treasurer payFX path. Trust earned on one chain is spendable on the next.<br>**Solidity, Foundry, Avalanche ICM · Teleporter, ERC-8004, TypeScript** | ![](https://img.shields.io/badge/🟢_Live_on_Fuji-E84142?style=for-the-badge) |
+| **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Kozalak-L1) | Avalanche L1 launchpad: 5 audit-grade Subnet-EVM templates (ERC-20 gas · ERC-721 · ICTT · Soulbound · Timelock, all Fuji-verified) + the `create-kozalak-l1` scaffolding CLI on npm. 110 fuzz/invariant tests.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/📦_npm_Live-2ea44f?style=for-the-badge) |
+| **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation, plus AgentVaults so any user can deploy their own. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating).<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/⚔️_Submitted-FF0011?style=for-the-badge) |
+| **🟣 Brain Drain** — [🔗 Live](https://brain-drain-iota.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/brain-drain) | Colosseum Frontier 2026 entry. x402 multi-protocol agent hub — AI agents discover, mount and pay vaults of expert knowledge. CDP smart wallets, MCP catalog, RAG.<br>**TypeScript, x402, Coinbase CDP, MCP, Solana, Next.js** | ![](https://img.shields.io/badge/🏁_Submitted-9945FF?style=for-the-badge) |
 
 <div align="center">
 
-### In Development — Private (Case studies on request)
+### In Development (Case studies on request)
 
 </div>
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **bekirerdem.dev** — [🔗 Live](https://bekirerdem.dev) | Personal portfolio — interactive, design-led. Astro + GSAP + WebGL.<br>**Astro, GSAP, Three.js** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **FunnyDog Farm** — [🔗 Live](https://funnydogizmir.com.tr) | Production client — AI chatbot "Pati", SEO infra, 39+ indexed pages.<br>**Next.js, Supabase, Gemini** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Trading Agent** | Autonomous news → signal → execution pipeline. Telegram channels monitored live.<br>**TypeScript, Claude Haiku, Binance WS, gramjs** | ![](https://img.shields.io/badge/🟢_Active_·_Listening-2ea44f?style=flat-square) |
-| **ARIA Hub** (formerly Agent Arena) — [🔗 Live](https://agent-mersin.vercel.app/) | Avalanche gamified community + education platform. Co-developing with [@omeraksu](https://github.com/omeraksu) (Avalanche Turkey Tech Lead).<br>**Vite, TS, Hardhat, Supabase, Avalanche Fuji** | ![](https://img.shields.io/badge/🤝_Co--developing-17a2b8?style=flat-square) |
-
-<div align="center">
-
-### Earlier Work — Frontend & Motion
-
-</div>
-
-| Project | Mission & Tech | Status |
-|---------|----------------|--------|
-| **Pall-Net** — [🔗 Live](https://pall-net.vercel.app/) | Real-time web architecture with AI integration.<br>**Next.js 15, AI** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Synapse Digital** — [🔗 Live](https://synapse-digital-experience.vercel.app/) | Interactive interface redefining the digital experience.<br>**AI-Driven UI, React** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Sentient Agency** — [🔗 Live](https://sentient-agency.vercel.app/) | AI-driven, fluid agency experience.<br>**Next.js, Framer Motion** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
-| **Anime.js Mastery** — [🔗 Live](https://anime-js-git-master-bekirerdem.vercel.app/) | Complex animations choreographed in code.<br>**Anime.js, Creative Coding** | ![](https://img.shields.io/badge/🟢_Live-Production-2ea44f?style=flat-square) |
+| **bekirerdem.dev** — [🔗 Live](https://bekirerdem.dev) | Personal portfolio — interactive, design-led. Astro + GSAP + WebGL.<br>**Astro, GSAP, Three.js** | ![](https://img.shields.io/badge/🟢_Live-2ea44f?style=for-the-badge) |
+| **FunnyDog Farm** — [🔗 Live](https://funnydogizmir.com.tr) | Production client — SEO infrastructure, 39+ indexed pages, booking flows.<br>**Next.js, Supabase, Gemini** | ![](https://img.shields.io/badge/🟢_Live-2ea44f?style=for-the-badge) |
+| **📘 LexiMate** — [🔗 Live](https://leximate-ecru.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/leximate) | English-learning PWA built to close my own gap for hackathon pitches — sentence-pattern drills, spaced repetition, shadowing.<br>**Next.js, TypeScript, Supabase, PWA** | ![](https://img.shields.io/badge/🔨_Building-8A2BE2?style=for-the-badge) |
 
 <br/>
 
@@ -166,9 +151,6 @@ Currently shipping across Stellar, Avalanche, Casper and Solana. Comfortable fro
 </a>
 <a href="https://www.linkedin.com/in/bekir-erdem">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.upwork.com/freelancers/~bekirerdem">
-  <img src="https://img.shields.io/badge/Upwork-Hire_Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" />
 </a>
 
 <br/><br/>
