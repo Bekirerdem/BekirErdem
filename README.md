@@ -18,7 +18,7 @@ const mission = {
 
 // The contract is the safety — not the model's good behaviour.
 while (imagination && adrenaline) {
-  ship(["PRISM", "VERGLAS", "Kozalak-L1", "casper-trust"]);
+  ship(["Eunomia", "VERGLAS", "Kozalak-L1"]);
 }
 ```
 
@@ -33,7 +33,6 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 <img src="https://img.shields.io/badge/Soroban-FDDA24?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/Odra_·_Casper-FF0011?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Foundry-F38B00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Circom_·_Groth16-7C3AED?style=for-the-badge" />
@@ -51,8 +50,6 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
-<img src="https://img.shields.io/badge/Casper-FF0011?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
 
 <br/>
 
@@ -111,7 +108,7 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **🔭 PRISM** — [🔗 Live](https://prism-stellar.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/prism) | **The wallet your AI agent can't drain.** Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Now a live per-user product: connect a wallet, deploy your own treasury.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_Place-FDDA24?style=for-the-badge) |
+| **⚖️ EUNOMIA** — [🔗 Live](https://eunomia.finance) · [📦 Repo](https://github.com/eunomia-finance/eunomia) | **The wallet your AI agent can't drain.** (formerly PRISM) Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Passkey-native onboarding + recovery (WebAuthn, no seed phrases), security-audited, live per-user product.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_Place-FDDA24?style=for-the-badge) |
 | **❄️ VERGLAS** — [🔗 Live](https://verglas.xyz) | **Agent trust that travels.** Canonical ERC-8004 registry on Avalanche — agent identity + reputation that survives the trip between L1s over ICM, with USDC settlement and a Treasurer payFX path. Trust earned on one chain is spendable on the next.<br>**Solidity, Foundry, Avalanche ICM · Teleporter, ERC-8004, TypeScript** | ![](https://img.shields.io/badge/🟢_Live_on_Fuji-E84142?style=for-the-badge) |
 | **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Kozalak-L1) | Avalanche L1 launchpad: 5 audit-grade Subnet-EVM templates (ERC-20 gas · ERC-721 · ICTT · Soulbound · Timelock, all Fuji-verified) + the `create-kozalak-l1` scaffolding CLI on npm. 110 fuzz/invariant tests.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/📦_npm_Live-2ea44f?style=for-the-badge) |
 | **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation, plus AgentVaults so any user can deploy their own. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating).<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/⚔️_Submitted-FF0011?style=for-the-badge) |
@@ -139,7 +136,7 @@ while (imagination && adrenaline) {
 
 **Open for Web3 contract work** — Smart contracts · Audit-grade Rust/Soroban & Solidity · ZK circuits · Full-stack dApps
 
-Currently shipping across Stellar, Avalanche, Casper and Solana. Comfortable from protocol design to production deployment.
+Currently shipping across Stellar, Avalanche and Solana — and contributing to the [Avalanche Builder Hub](https://github.com/ava-labs/builders-hub). Comfortable from protocol design to production deployment.
 
 <br/>
 
