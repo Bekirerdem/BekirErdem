@@ -56,7 +56,7 @@ while (imagination && adrenaline) {
 
 <br/>
 
-**Frontend & Full-Stack**
+**Frontend & Web**
 
 <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -81,9 +81,8 @@ while (imagination && adrenaline) {
 
 **AI & Tooling**
 
-<img src="https://img.shields.io/badge/Claude_Fable_5-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude_Fable_5.2-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_3.6_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" />
 
 <br/><br/>
