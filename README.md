@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Rust_·_Soroban_·_Solidity_·_ZK;Stellar_·_Avalanche_·_Solana;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=FF0055&center=true&vCenter=true&width=720&lines=Smart_Contract_Developer_·_Multi-chain;Rust_·_Soroban_·_Solidity_·_ZK;Stellar_·_Avalanche_·_Casper_·_Arc;Open_for_contract_+_audit-grade_work" alt="Typing SVG" />
   </a>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
@@ -49,6 +49,9 @@ while (imagination && adrenaline) {
 
 <img src="https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white" />
 <img src="https://img.shields.io/badge/Avalanche_L1-E84142?style=for-the-badge&logo=avalanche&logoColor=white" />
+<img src="https://img.shields.io/badge/Casper-FF0011?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Arc-1D1A16?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=black" />
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 
 <br/>
@@ -107,10 +110,12 @@ while (imagination && adrenaline) {
 
 | Project | Mission & Tech | Status |
 |---------|----------------|--------|
-| **⚖️ EUNOMIA** — [🔗 Live](https://eunomia.finance) · [📦 Repo](https://github.com/eunomia-finance/eunomia) | **The wallet your AI agent can't drain.** (formerly PRISM) Non-custodial Soroban bounded treasury — payee whitelist + per-task & daily limits enforced **on-chain**, ZK compliance proofs (Circom/Groth16, on-chain BN254 verifier), bounded x402, escrow + reputation gate. Passkey-native onboarding + recovery (WebAuthn, no seed phrases), security-audited, live per-user product.<br>**Rust · Soroban, Circom/snarkjs, TypeScript, React** | ![](https://img.shields.io/badge/🏆_2nd_Place-FDDA24?style=for-the-badge) |
-| **❄️ VERGLAS** — [🔗 Live](https://verglas.xyz) | **Agent trust that travels.** Canonical ERC-8004 registry on Avalanche — agent identity + reputation that survives the trip between L1s over ICM, with USDC settlement and a Treasurer payFX path. Trust earned on one chain is spendable on the next.<br>**Solidity, Foundry, Avalanche ICM · Teleporter, ERC-8004, TypeScript** | ![](https://img.shields.io/badge/🟢_Live_on_Fuji-E84142?style=for-the-badge) |
+| **⚖️ EUNOMIA** — [🔗 Live](https://eunomia.finance) · [📦 Repo](https://github.com/eunomia-finance/eunomia) | **The wallet your AI agent can't drain.** (formerly PRISM) Non-custodial Soroban treasury — payee whitelist + per-payment, rolling 24h and monthly limits enforced **on-chain**; the agent spends on a Leash (a scoped, expiring, revocable session key). Bounded x402, escrow, ERC-8004 reputation gate, passkey onboarding (WebAuthn, no seed phrases) and the `eunomia-mcp` server on npm. ZK compliance layer built, ships after the beta. Stellar Community Fund Instaward · 2nd place, Agentic track, IBW 2026.<br>**Rust · Soroban, TypeScript, React, Circom/snarkjs** | ![](https://img.shields.io/badge/🟢_Stellar_Mainnet_Beta-FDDA24?style=for-the-badge) |
+| **❄️ VERGLAS** — [🔗 Live](https://verglas.xyz) · [📦 Repo](https://github.com/Bekirerdem/verglas) | **Agent trust that travels.** Rule-bound, non-custodial vaults for AI agents on Avalanche — spending is proven against the owner's policy with a ZK proof (Groth16), recorded as an ERC-8004 validation attestation, and carried to other L1s over ICM. Console, SDK and an MCP tool; real Circle USDC on mainnet.<br>**Solidity, Foundry, Circom/Groth16, Avalanche ICM, ERC-8004, TypeScript** | ![](https://img.shields.io/badge/🟢_C--Chain_Mainnet-E84142?style=for-the-badge) |
 | **⚫ Kozalak-L1** — [🔗 Live](https://koza.bekirerdem.dev) · [📦 Repo](https://github.com/Bekirerdem/Kozalak-L1) | Avalanche L1 launchpad: 5 audit-grade Subnet-EVM templates (ERC-20 gas · ERC-721 · ICTT · Soulbound · Timelock, all Fuji-verified) + the `create-kozalak-l1` scaffolding CLI on npm. 110 fuzz/invariant tests.<br>**Solidity, Foundry, Avalanche CLI, Subnet-EVM** | ![](https://img.shields.io/badge/📦_npm_Live-2ea44f?style=for-the-badge) |
-| **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation, plus AgentVaults so any user can deploy their own. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating).<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/⚔️_Submitted-FF0011?style=for-the-badge) |
+| **🛡️ Casper Agent Trust Layer** — [🔗 Live](https://casper-trust-layer.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/casper-trust-layer) | First ERC-8004-style agent trust layer on Casper — on-chain agent identity + economic-proof reputation, plus AgentVaults so any user can deploy their own. 5 contracts live on testnet, `casper-trust` SDK on npm (wallet-less reputation reads + x402 trust-gating). 3rd place, Casper Agentic Buildathon 2026.<br>**Rust (Odra), casper-js-sdk, TypeScript** | ![](https://img.shields.io/badge/🥉_3rd_Place-FF0011?style=for-the-badge) |
+| **🔑 Keyarc** — [🔗 Live](https://keyarc.app) · [📦 Repo](https://github.com/Bekirerdem/keyarc) | **Your team's payment link, on Arc.** Clients pay one link; everyone on the invoice agrees to their share first, and when the money lands each share goes straight to its owner's wallet in the same transaction. Includes a treasury agent.<br>**Solidity, Foundry, TypeScript, Arc** | ![](https://img.shields.io/badge/🟢_Arc_Mainnet-1D1A16?style=for-the-badge) |
+| **🧛 ZKöy** — [🔗 Live](https://zkoy.fun) · [📦 Repo](https://github.com/Bekirerdem/zkoy) | Social deduction party game on Zcash (Vampire Village). Every night move and vote is sealed into a shielded memo; the room's viewing key is revealed at the end so anyone can check the game. Built with a teammate. 1st place, Zcash TR Mini Hackathon.<br>**TypeScript, Dart, Zcash shielded memos** | ![](https://img.shields.io/badge/🏆_1st_Place-F4B728?style=for-the-badge) |
 | **🟣 Brain Drain** — [🔗 Live](https://brain-drain-iota.vercel.app) · [📦 Repo](https://github.com/Bekirerdem/brain-drain) | Colosseum Frontier 2026 entry. x402 multi-protocol agent hub — AI agents discover, mount and pay vaults of expert knowledge. CDP smart wallets, MCP catalog, RAG.<br>**TypeScript, x402, Coinbase CDP, MCP, Solana, Next.js** | ![](https://img.shields.io/badge/🏁_Submitted-9945FF?style=for-the-badge) |
 
 <div align="center">
@@ -135,7 +140,7 @@ while (imagination && adrenaline) {
 
 **Open for Web3 contract work** — Smart contracts · Audit-grade Rust/Soroban & Solidity · ZK circuits · Full-stack dApps
 
-Currently shipping across Stellar, Avalanche and Solana — and contributing to the [Avalanche Builder Hub](https://github.com/ava-labs/builders-hub). Comfortable from protocol design to production deployment.
+Currently shipping across Stellar, Avalanche, Casper and Arc — with merged contributions to the [Avalanche Builder Hub](https://github.com/ava-labs/builders-hub) and Stellar ecosystem repos. Comfortable from protocol design to production deployment.
 
 <br/>
 
