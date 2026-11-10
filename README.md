@@ -34,14 +34,12 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Soroban-FDDA24?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/Foundry-F38B00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" />
 <img src="https://img.shields.io/badge/Circom_·_Groth16-7C3AED?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ERC--8004-00B894?style=for-the-badge" />
 <img src="https://img.shields.io/badge/x402-2962FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/ICM_·_Teleporter-E84142?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Wagmi_v2-2C2C2C?style=for-the-badge" />
 <img src="https://img.shields.io/badge/viem-1B1B1B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Coinbase_CDP-0052FF?style=for-the-badge&logo=coinbase&logoColor=white" />
 
 <br/>
 
@@ -75,7 +73,6 @@ while (imagination && adrenaline) {
 <img src="https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <br/>
 
@@ -119,7 +116,7 @@ while (imagination && adrenaline) {
 
 <div align="center">
 
-### In Development (Case studies on request)
+### Web & Client Work
 
 </div>
 
